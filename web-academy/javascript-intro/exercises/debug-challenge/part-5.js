@@ -20,6 +20,7 @@ Expected Result:
 => No skating today.
 */
 
+
 let readyToSkate = false;
 let energyLevel = 18000;
 let crewStatus = true;
